@@ -1,0 +1,14 @@
+{
+    "name": "phone-input",
+    "version": "0.2.4",
+    "description": "phone input",
+    "main": "src",
+    "main:src": "src",
+    "dependencies": {
+      "prop-types": "^15.6.2",
+      "react": "^16.8.6",
+      "semantic-ui-react": "1.2.1"
+    },
+    "gitHead": "301b5b4bfe3babe089d4d84d774dacce257d4742"
+  }
+  
